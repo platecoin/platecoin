@@ -23,3 +23,9 @@ Drink Can, Paper
 5. Bend the 4 corners on both
 6. Put Barcode inside
 7. Twist the halves together to attach
+
+
+## Known problems
+
+Edge of coin is sharp
+Coin is too light
